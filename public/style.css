@@ -1,0 +1,32 @@
+@import "@fortawesome/fontawesome-free/css/all.css";
+html {
+  font-size: 100%;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  color: rgba(0, 0, 0, 0.8);
+  background: rgb(245, 245, 245);
+}
+
+*,
+*:after,
+*:before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ol,
+ul,
+li {
+  list-style: none;
+}
+
+button {
+  border: none;
+}
+
+button:focus {
+  outline: none;
+}

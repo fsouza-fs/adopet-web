@@ -1,0 +1,11 @@
+export const LOGIN = 'LOGIN';
+export const LOGIN_START = 'LOGIN_START';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_FAIL = 'LOGIN_FAIL';
+export const INITIATE_LOGOUT = 'INITIATE_LOGOUT';
+export const LOGOUT = 'LOGOUT';
+
+export const GET_ANIMALS = 'GET_ANIMALS';
+export const GET_ANIMALS_START = 'GET_ANIMALS_START';
+export const GET_ANIMALS_SUCCESS = 'GET_ANIMALS_SUCCESS';
+export const GET_ANIMALS_FAIL = 'GET_ANIMALS_FAIL';
