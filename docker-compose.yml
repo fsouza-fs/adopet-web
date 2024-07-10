@@ -2,6 +2,7 @@ version: "2"
 
 services:
   adopt-site:
+    restart: always
     build:
       context: .
       dockerfile: Dockerfile
