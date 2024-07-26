@@ -25,3 +25,11 @@ dist-ssr
 
 # Environment
 *.env
+
+# Local .terraform directories
+**/.terraform/*
+**.terraform*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
